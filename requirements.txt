@@ -3,3 +3,6 @@ numpy==1.26.1
 pandas==2.1.2
 matplotlib
 seaborn 
+sklearn
+scipy
+pycaret
